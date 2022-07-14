@@ -117,3 +117,18 @@
     color: red;
     
   }
+  footer {
+    background-color: black;
+
+  }
+  footer h1 {
+    color: red;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Splash', cursive;
+  }
+  footer p {
+    color: aliceblue;
+    text-align: center;
+    font-size: 12px;
+  }
