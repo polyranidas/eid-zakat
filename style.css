@@ -9,7 +9,7 @@
     position: relative;
     color: aliceblue;
     height: 400px;
-    background-image: url(images/flood-1.jpg);
+    background-image:linear-gradient(to left, rgba(245,246,252,0.1),rgba(0,0,0,0.8)), url(images/cow.png);
     background-repeat: no-repeat;
     background-size: cover;
    }
